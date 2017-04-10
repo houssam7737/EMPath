@@ -2,4 +2,5 @@
     <string name="app_name">My EMPath</string>
     <string name="create_goal">Create goal</string>
     <string name="title_activity_create_goal">createGoal</string>
+    <string name="title_content_create_goal">createGoal</string>
 </resources>
