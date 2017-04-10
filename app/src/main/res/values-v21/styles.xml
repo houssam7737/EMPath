@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="empath_theme" parent="AppTheme">
+        <item name="colorPrimary">@color/breakerBay</item>
+        <item name="colorPrimaryDark">@color/emperor</item>
+        <item name="colorAccent">@color/kidnapper</item>
+        <item name="android:navigationBarColor">@color/breakerBay</item>
+        <item name="android:statusBarColor">@color/emperor</item>
+        <item name="android:textColorPrimary">@color/emperor</item>
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:colorForeground">@color/emperor</item>
+    </style>
+</resources>
