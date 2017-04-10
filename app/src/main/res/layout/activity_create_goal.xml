@@ -13,7 +13,7 @@
         <include layout="@layout/content_create_goal"
             android:id="@+id/include"
             tools:layout_editor_absoluteY="0dp"
-            tools:layout_editor_absoluteX="0dp" />
+            tools:layout_editor_absoluteX="62dp" />
 
         <android.support.design.widget.AppBarLayout
             android:layout_width="368dp"
