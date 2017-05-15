@@ -28,19 +28,6 @@ public class createGoal extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_goal);
 
-        EmpathHelper my_empath_helper = new EmpathHelper(this);
-
-        // Gets the data repository in write mode
-        SQLiteDatabase db = my_empath_helper.getWritableDatabase();
-
-        // Create a new map of values, where column names are the keys
-        ContentValues values = new ContentValues();
-        values.put(data_pat.empathEntry.GOALS_COLUMN_NAME, "Patricia");
-
-        // Insert the new row, returning the primary key value of the new row
-        long newRowId = db.insert(data_pat.empathEntry.GOALS_TABLE_NAME, null, values);
-
-
     }
     public void createNewGoal(View view) {
         // Do something in response to button
