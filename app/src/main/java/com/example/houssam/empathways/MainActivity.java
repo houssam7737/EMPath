@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity{
         Collections.reverse(ids);
         for (Long id : ids) {
             // match the numbers that I created
-            Link link = new Link(id + ":");
+            Link link = new Link(String.valueOf(id));
             link.setBold(true);
             link.setTextColor(Color.parseColor("#52A291"));
             link.setOnClickListener(new Link.OnClickListener() {
