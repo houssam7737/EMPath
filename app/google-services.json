@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734277779677",
+    "project_id": "firebase-empath"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734277779677:android:c9f9924430fe9956",
+        "android_client_info": {
+          "package_name": "com.empath.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734277779677-bs9odpprbnlk3dqpsnlhs2rnuktg4r7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.empath.app",
+            "certificate_hash": "3cf12ba577361cfd82c210c999fd3e05f743bf7f"
+          }
+        },
+        {
+          "client_id": "734277779677-ereq0lrnolj8jqqopgtt175e7rjnb29b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6gVrzbL_7dAj6BP2eebfXR8SfIXMWPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
